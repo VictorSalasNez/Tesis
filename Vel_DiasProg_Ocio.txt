@@ -1,0 +1,14 @@
+90;Velocidad_promedio_buses
+7;Dias_a_programar
+10000;holgura_buses
+Datos/PULLMAN_NORTE-SUR-NUEVO.dat;archivo_salida
+csv/ATACAMA_VIP.csv;0
+csv/CIDHER.csv;0
+csv/ELQUI_BUS.csv;0
+csv/LOS_CONQUISTADORES.csv;0
+csv/LOS_CORSARIOS.csv;0
+csv/LOS_LIBERTADORES.csv;0
+csv/MORAGA_TOUR.csv;0
+csv/NUEVO_FICHTUR_VIP.csv;0
+csv/PULLMAN_NORTE-SUR.csv;0
+csv/PULLMAN_NORTE-SUR-NUEVO.csv;1
